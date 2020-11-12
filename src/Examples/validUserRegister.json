@@ -1,0 +1,15 @@
+{
+    "user" : {
+
+            "username": "test",
+              "firstName": "test",
+              "lastName": "test",
+              "birthYear": "test",
+              "profilePictureBase64": "test",
+        }
+    }
+    "auth" : {
+        "username" : "Test",
+        "password" : "123"
+    }
+}
